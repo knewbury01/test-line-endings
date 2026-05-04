@@ -1,6 +1,7 @@
 /**
  * 
  * @id js/command-line-injection
+ * @name test
  * @kind problem
  */
 

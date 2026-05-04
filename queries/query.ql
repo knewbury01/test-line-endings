@@ -1,7 +1,7 @@
 /**
  * 
  * @id js/command-line-injection
- * @name test
+ * @name test-second-change
  * @kind problem
  */
 
